@@ -1,0 +1,13 @@
+.container h2 {
+  text-align: center;
+  margin: 25px auto;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://www.photo-paysage.com/albums/userpics/10001/thumb_Lumiere-aube-automne-lac-annecy.jpeg');
+  background-size: cover;
+}

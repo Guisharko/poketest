@@ -1,0 +1,31 @@
+.mat-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  mat-card {
+    margin-bottom: 20px;
+  }
+  
+  mat-table {
+    width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .mat-container {
+      padding: 10px;
+    }
+  
+    .isDesktop {
+      display: none;
+    }
+  }
